@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nb"
+  site-url: "https://NoelJacob.github.io/nb"
+  description: ""
+  repo-branch: master
+  repo-url: "https://github.com/NoelJacob/nb"
